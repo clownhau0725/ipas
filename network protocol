@@ -64,4 +64,4 @@ Layer-functionties-protocol-hardware-data format
 >*一些駭客通過偽造DNS伺服器將用戶引向錯誤網站，以達到竊取用戶隱私資訊的目的
 >*任何一個使用IP的電腦網路可以使用DNS來實現他自己的私有名稱系統
 >*不安全
-### ssh
+### ssh (Secure Shell)
